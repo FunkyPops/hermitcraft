@@ -134,6 +134,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-5048, -3128, 64], "title": "Xisuma's ghast killing chamber", "icon": "xisuma.png" },
 				{ "pos": [-3560, -375, 64], "title": "Xisuma's wandering trader platform", "icon": "xisuma.png" },
 				{ "pos": [-4800, 310, 64], "title": "Xisuma's witch farm", "icon": "xisuma.png" },
+				{ "pos": [-1193, 863, 64], "title": "My new base", "icon": "Grian.png" },
 			],
 		},
 	},
